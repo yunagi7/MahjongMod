@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "examplemod:east_tile"
+    }
+  ],
+  "result": {
+    "item": "examplemod:south_tile"
+  }
+}
