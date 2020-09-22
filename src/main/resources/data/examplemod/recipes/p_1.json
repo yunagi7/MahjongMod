@@ -2,10 +2,10 @@
 	"type": "minecraft:crafting_shapeless",
 	"ingredients": [
 		{
-			"item": "examplemod:s_4"
+			"item": "examplemod:p_9"
 		}
 	],
 	"result": {
-		"item": "examplemod:s_5"
+		"item": "examplemod:p_1"
 	}
 }

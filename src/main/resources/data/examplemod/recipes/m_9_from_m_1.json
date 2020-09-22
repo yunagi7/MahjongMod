@@ -2,8 +2,7 @@
 	"type": "minecraft:crafting_shapeless",
 	"ingredients": [
 		{
-			"item": "examplemod:m_1",
-			"count": 9
+			"item": "examplemod:m_8"
 		}
 	],
 	"result": {

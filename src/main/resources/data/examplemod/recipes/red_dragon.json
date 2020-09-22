@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "examplemod:green_dragon"
+    }
+  ],
+  "result": {
+    "item": "examplemod:red_dragon"
+  }
+}
