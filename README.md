@@ -34,7 +34,7 @@ This project is using IntelliJ IDEA & Gradle. Simply import this project into ID
 ## Contributors
 
 This project exists thanks to all the people who contribute.
-- [Louis](https://github.com/Louis-github-page)
+- [Louis](https://github.com/Hedgeh09)
 - [Chester](https://github.com/yunagi7)
 
 ## License
