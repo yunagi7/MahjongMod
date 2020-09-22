@@ -2,7 +2,7 @@
 
 ## Example MOD
 
-Following an example mod created by [Cadiboo](https://github.com/Cadiboo).
+This project follows an example mod created by [Cadiboo](https://github.com/Cadiboo).
 View the tuorials for that example mod at [https://cadiboo.github.io/tutorials/](https://cadiboo.github.io/tutorials/)
 
 ## Table of Contents
