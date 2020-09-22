@@ -1,4 +1,4 @@
-# [Mahjong Mod for Minecraft 1.15.2] (https://github.com/yunagi7/MahjongMod/)
+# [Mahjong Mod for Minecraft 1.15.2](https://github.com/yunagi7/MahjongMod/)
 
 ## Example MOD
 
