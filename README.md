@@ -22,8 +22,8 @@ A Mahjong Mod for Minecraft 1.15.2. This repository contains xxx, xxx & xxx.
 
 - Create mahjong items [OK]
 - Add mahjong algorithm [TBD]
-- TBD
-- TBD
+- Design mahjong table [TBD]
+- Gym generation [TBD]
 - TBD
 - TBD
 
